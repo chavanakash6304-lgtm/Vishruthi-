@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>For Vishruthi 💕</title>
+    <title>For Vishruthi ❤️</title>
     <style>
         body {
             text-align: center;
@@ -11,7 +11,7 @@
             color: #333;
         }
 
-        img {
+        img {IMG_20251011_203801_721_1767524914345.jpg
             width: 250px;
             height: 250px;
             border-radius: 20px;
@@ -52,7 +52,7 @@
     <h1>Hey Vishruthi 💖</h1>
     <img src="vishruthi.jpg" alt="Vishruthi">
 
-    <h2>Can I call you right now? 📞💕</h2>
+    <h2>Can I call you right now? 📞</h2>
 
     <button class="yes" onclick="yesClick()">Yes 😄</button>
     <button class="no" onclick="noClick()">Maybe Later 🥺</button>
