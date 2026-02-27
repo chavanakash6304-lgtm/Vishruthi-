@@ -11,7 +11,7 @@
             color: #333;
         }
 
-        img {IMG_20251011_203801_721_1767524914345.jpg
+        <img src="IMG_20251011_203801_721_1767524914345.jpg" alt="Vishruthi">
             width: 250px;
             height: 250px;
             border-radius: 20px;
